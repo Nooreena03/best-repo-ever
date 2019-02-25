@@ -1,3 +1,2 @@
 # best-repo-ever
-new change
-some other changes
+some new changes after conflict
